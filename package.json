@@ -1,0 +1,25 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "project by saurabh",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react-project"
+  ],
+  "author": "Saurabh Tapkir",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.1",
+    "postcss": "^8.5.16",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
