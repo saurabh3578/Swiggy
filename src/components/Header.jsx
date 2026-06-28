@@ -33,10 +33,8 @@ const Header = () => {
             </ul>
           </nav>
 
-          <button className="rounded-lg bg-white px-5 py-2 text-sm font-semibold text-orange-500 transition duration-300 hover:bg-gray-100 md:ml-6">
-            Login
-          </button>
         </div>
+
       </div>
     </header>
   );
